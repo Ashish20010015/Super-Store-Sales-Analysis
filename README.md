@@ -24,14 +24,14 @@ Each row of the dataset contains information about an order. The following order
 21.'ind1'
 22.'ind2'
 
-There are 5902 rows and 22 columnsare present in the dataset.
+There are 5902 rows and 22 columns in the dataset.
 
-## Technolohies Used:
-For importing, manipulating, and exploring data, I utilised Pandas; for data visualisation, I used Seaborn and Matplotlib. Additionally, I created the analytical dashboard using PowerBI.
+## Technologies Used:
+For importing, manipulating, and exploring data, I used Pandas; for data visualization, I used Seaborn and Matplotlib. Additionally, I created the analytical dashboard using PowerBI.
 
 ## Data Exploration
 1. Checked For missing Values.
-All the columns have data for every row except for Returns,ind1,ind2 columns which have missing data points.
+All the columns have data for every row except for Returns, ind1, and ind2 which have missing data points.
 
 2. Delete the columns which are not required for analysis.
 Row ID,Order ID, Product ID, Customer ID,Product Naame, Customer Name are not required for Analysis process.
