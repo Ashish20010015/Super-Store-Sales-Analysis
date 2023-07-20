@@ -1,5 +1,5 @@
 ## Super-Stotre-Sales-Analysis
-I am using the dataset from https://github.com/Ashish20010015/Super-Stotre-Sales-Analysis/blob/main/SuperStore_Sales_Dataset.csv
+I am using the dataset from https://github.com/Ashish20010015/Super-Store-Sales-Analysis/blob/main/SuperStore_Sales_Dataset.csv.
 Each row of the dataset contains information about an order. The following order details are available:
 1.'Row ID'
 2.'Order ID'
